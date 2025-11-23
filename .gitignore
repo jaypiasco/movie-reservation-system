@@ -1,0 +1,12 @@
+# Ignore local environment files and common Python artifacts
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.idea/
+.vscode/
+logfile.txt
+*.log
